@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @ankanslittlemind
-- 👀 I’m interested in badminton, music, cooking, coding
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on not yet decided
+- 👋 Hi, I’m Ankan Das
 - 📫 You can reach me via mail ankan4talk@gmail.com
 
 <!---
