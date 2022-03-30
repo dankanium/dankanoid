@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ankan Das
 - 📫 You can reach me via mail ankan4talk@gmail.com
+- LinkedIn: linkedin.com/in/ankanslittlemind
 
 <!---
 ankanslittlemind/ankanslittlemind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
